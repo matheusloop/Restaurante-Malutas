@@ -1,0 +1,35 @@
+Arrumadinho
+Feij∆o fradinho, calabresa, bacon, carne de charque
+20
+Prato Principal
+0
+25.5
+PP001
+Mousse de lim∆o
+Lim∆o, leite condensado, creme de leite
+10
+Sobremesa
+1
+10
+S001
+Canja de galinha
+Frango, cebola, alho, cenoura, arroz, salsinha
+30
+Entrada
+0
+30
+E001
+Salada pommes
+Maá∆, alface, cenoura, repolho, maionese
+15
+Entrada
+1
+10
+E002
+Torta de morango
+Leite, leite condensado, baunilha, ovos, creme de leite, morangos, gelatina de morango
+35
+Sobremesa
+1
+44.5
+S002
